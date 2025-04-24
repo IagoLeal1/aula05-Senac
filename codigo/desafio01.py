@@ -3,6 +3,6 @@ num2 = input("escreva outro número: ")
 num3 = input("escreva outro número: ")
 
 lista = [num1, num2, num3]
-lista.sort(reverse=False)
+lista.sort()
 
 print(lista)
